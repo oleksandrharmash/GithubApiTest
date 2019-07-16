@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - AlamofireNetworkActivityIndicator (2.4.0):
+    - Alamofire (~> 4.8)
+  - AlamofireNetworkActivityLogger (2.4.0):
+    - Alamofire (~> 4.8)
+  - DZNEmptyDataSet (1.8.1)
+  - JGProgressHUD (2.0.3)
+  - Toast-Swift (5.0.0)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - AlamofireImage (~> 3.5)
+  - AlamofireNetworkActivityIndicator (~> 2.4)
+  - AlamofireNetworkActivityLogger (~> 2.4)
+  - DZNEmptyDataSet
+  - JGProgressHUD
+  - Toast-Swift (~> 5.0.0)
+  - UIScrollView-InfiniteScroll (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireNetworkActivityIndicator
+    - AlamofireNetworkActivityLogger
+    - DZNEmptyDataSet
+    - JGProgressHUD
+    - Toast-Swift
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  AlamofireNetworkActivityIndicator: 9acc3de3ca6645bf0efed462396b0df13dd3e7b8
+  AlamofireNetworkActivityLogger: 6d3398c692d2c5d83b0c58793537860aca1e383d
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 7b0fc9605de60d3d0b2a65ee7372dad14f201bfa
+
+COCOAPODS: 1.6.0
